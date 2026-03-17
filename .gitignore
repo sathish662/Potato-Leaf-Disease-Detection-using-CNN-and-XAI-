@@ -26,3 +26,6 @@ gradcam_result.png
 *.egg-info/
 dist/
 build/
+*.h5
+instance/
+.webassets-cache
